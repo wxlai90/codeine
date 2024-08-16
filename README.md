@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Experience Codeine in action! Try out the [live demo](URL_to_live_demo) to see how real-time collaboration works.
+Experience Codeine in action! Try out the [live demo](https://wxlai90.github.io/codeine/) to see how real-time collaboration works.
 
 ## Features
 
@@ -17,12 +17,17 @@ Experience Codeine in action! Try out the [live demo](URL_to_live_demo) to see h
 
 ### Prerequisites
 
-- [List any prerequisites or dependencies, e.g., Node.js, Docker, etc.]
+- npm
+
+```bash
+npm install
+npm start # starts on localhost:3000
+```
 
 ### Getting Started
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/codeine.git
+   git clone https://github.com/wxlai90/codeine.git
    ```
