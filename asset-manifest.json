@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/codeine/static/css/main.92e78ade.css",
-    "main.js": "/codeine/static/js/main.13a18ea1.js",
+    "main.js": "/codeine/static/js/main.7e2d6c05.js",
     "static/js/206.beeec1b6.chunk.js": "/codeine/static/js/206.beeec1b6.chunk.js",
     "index.html": "/codeine/index.html"
   },
   "entrypoints": [
     "static/css/main.92e78ade.css",
-    "static/js/main.13a18ea1.js"
+    "static/js/main.7e2d6c05.js"
   ]
 }
