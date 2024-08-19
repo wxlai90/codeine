@@ -18,7 +18,7 @@ const NewEditorPage = () => {
         });
 
         // Redirect to the newly created document ID
-        navigate(`/codeine/${docRef.id}`);
+        navigate(`${docRef.id}`);
       } catch (e) {
         console.error("Error adding document: ", e);
       } finally {
